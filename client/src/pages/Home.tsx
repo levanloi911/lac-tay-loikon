@@ -194,7 +194,7 @@ setText(message)
             </div>
             <div>
               <h1 className="text-lg font-semibold text-foreground">
-                Shop Phương Linh
+                Shop Ngọc Linh
               </h1>
               <p className="text-xs text-muted-foreground">Trang Sức Cao Cấp</p>
             </div>
@@ -262,7 +262,7 @@ setText(message)
           <div className="relative h-96 lg:h-auto min-h-96 lg:min-h-screen overflow-hidden">
             <img
               src={BANNER_IMAGE}
-              alt="Shop Phương Linh"
+              alt="Shop Ngọc Linh"
               className="w-full h-full object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-l from-transparent to-background/20" />
@@ -405,7 +405,7 @@ setText(message)
                   </span>
                 </div>
                 <span className="font-semibold text-foreground">
-                  Shop Phương Linh
+                  Shop Ngọc Linh
                 </span>
               </div>
               <p className="text-sm text-muted-foreground">
@@ -464,7 +464,7 @@ setText(message)
           {/* Copyright */}
           <div className="text-center text-sm text-muted-foreground">
             <p>
-              © 2026 Shop Phương Linh. Tất cả quyền được bảo lưu.
+              © 2026 Shop Ngọc Linh. Tất cả quyền được bảo lưu.
             </p>
           </div>
         </div>

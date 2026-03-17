@@ -159,7 +159,7 @@ export default function OrderForm({
 
           {/* Info Text */}
           <p className="text-xs text-muted-foreground text-center">
-            Thông tin của bạn sẽ được gửi qua Messenger của Shop Phương Linh
+            Thông tin của bạn sẽ được gửi qua Messenger của Shop Ngọc Linh
           </p>
         </form>
       </div>

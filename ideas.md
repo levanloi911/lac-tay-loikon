@@ -1,4 +1,4 @@
-# Brainstorm Thiết Kế Website Shop Phương Linh
+# Brainstorm Thiết Kế Website Shop Ngọc Linh
 
 ## Phong Cách 1: Luxury Minimalist (Tối Giản Sang Trọng)
 
@@ -138,4 +138,4 @@
 
 **Phong cách được chọn: Luxury Minimalist (Tối Giản Sang Trọng)**
 
-Lý do: Phong cách này phù hợp nhất với sản phẩm lắc tay cao cấp của Shop Phương Linh. Thiết kế tối giản nhưng sang trọng sẽ giúp các mẫu lắc tay nổi bật, tạo cảm giác quý phái và đáng tin cậy. Không gian trắng rộng rãi sẽ cho phép ảnh sản phẩm "thở" và tập trung sự chú ý của khách hàng vào chất lượng của sản phẩm.
+Lý do: Phong cách này phù hợp nhất với sản phẩm lắc tay cao cấp của Shop Ngọc Linh. Thiết kế tối giản nhưng sang trọng sẽ giúp các mẫu lắc tay nổi bật, tạo cảm giác quý phái và đáng tin cậy. Không gian trắng rộng rãi sẽ cho phép ảnh sản phẩm "thở" và tập trung sự chú ý của khách hàng vào chất lượng của sản phẩm.
